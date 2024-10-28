@@ -2394,7 +2394,11 @@
             "title": "B.E. EI New CBGS 2017",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/EI050817011316.pdf"
           },
-          { "semester": "5th Semester", "title": "B.E. EXE New CBGS 2017" },
+          {
+            "semester": "5th Semester",
+            "title": "B.E. EXE New CBGS 2017",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/EXE050817011344.pdf"
+          },
           {
             "semester": "5th Semester",
             "title": "B.E. Fire Technology Safety Engg. New CBGS 2017",
