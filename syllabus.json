@@ -2046,11 +2046,7 @@
             "title": "B.E.(TX)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/VIII TX (Sy)150311042720.pdf"
           },
-          {
-            "semester": "8th Semester",
-            "title": "BE(AU",
-            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/VIII AU(Sy)150311043741.pdf"
-          }
+          { "semester": "8th Semester", "title": "BE(AU" }
         ]
       },
       { "name": "Lateral Entry", "id": 3, "pdfs": [] },
