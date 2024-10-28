@@ -132,5 +132,20 @@
   { "programName": "Ph.D.", "programId": 44, "programDataList": [] },
   { "programName": "Ph.D. Entrance", "programId": 52, "programDataList": [] },
   { "programName": "PGCMB", "programId": 45, "programDataList": [] },
-  { "programName": "Pharm D.", "programId": 51, "programDataList": [] }
+  {
+    "programName": "Pharm D.",
+    "programId": 51,
+    "programDataList": [
+      {
+        "title": "Time Table Pharm D V Year Session DEC 2024",
+        "semester": "5th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_PharmD_IV_V281024041638.pdf"
+      },
+      {
+        "title": "Time Table Pharm D IV Year Session DEC 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_PharmD_IV_V281024041604.pdf"
+      }
+    ]
+  }
 ]
