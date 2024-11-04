@@ -61,20 +61,35 @@
       }
     ]
   },
-  { "programName": "B.Pharm.(PCI)", "programId": 43, "programDataList": [] },
+  {
+    "programName": "B.Pharm.(PCI)",
+    "programId": 43,
+    "programDataList": [
+      {
+        "title": "Time Table BPharma PCI VIII Semester Session DEC 2024",
+        "semester": "8th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VIII041124013331.pdf"
+      },
+      {
+        "title": "Time Table BPharma PCI VII Semester Session DEC 2024",
+        "semester": "7th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VII041124013245.pdf"
+      }
+    ]
+  },
   {
     "programName": "B.Pharm",
     "programId": 2,
     "programDataList": [
       {
-        "title": "Time Table BPharma VIII Semester Session DEC 2024",
+        "title": "Time Table BPharma CBGS VIII Semester Session DEC 2024",
         "semester": "8th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VIII251024113821.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VIII041124013610.pdf"
       },
       {
-        "title": "Time Table BPharma VII Semester Session DEC 2024",
+        "title": "Time Table BPharma CBGS VII Semester Session DEC 2024",
         "semester": "7th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VII251024113751.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BPharm_VII041124013537.pdf"
       }
     ]
   },
@@ -118,23 +133,23 @@
   },
   { "programName": "M.Pharm", "programId": 7, "programDataList": [] },
   { "programName": "M.Pharm. PCI", "programId": 71, "programDataList": [] },
-  { "programName": "MCA 2 Year", "programId": 53, "programDataList": [] },
   {
-    "programName": "MCA",
-    "programId": 5,
+    "programName": "MCA 2 Year",
+    "programId": 53,
     "programDataList": [
       {
-        "title": "Time Table MCA IV Semester Session DEC 2024",
+        "title": "Time Table MCA 2Y IV Semester Session DEC 2024",
         "semester": "4th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MCA_III_IV251024114157.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MCA_2Y_III_IV041124012057.pdf"
       },
       {
-        "title": "Time Table MCA III Semester Session DEC 2024",
+        "title": "Time Table MCA 2Y III Semester Session DEC 2024",
         "semester": "3rd Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MCA_III_IV251024114046.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MCA_2Y_III_IV041124012016.pdf"
       }
     ]
   },
+  { "programName": "MCA", "programId": 5, "programDataList": [] },
   {
     "programName": "MCA Dual Degree",
     "programId": 23,
