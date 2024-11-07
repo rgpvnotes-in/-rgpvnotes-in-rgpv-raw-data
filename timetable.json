@@ -6,6 +6,11 @@
     "programId": 24,
     "programDataList": [
       {
+        "title": "Time Table BTech VII Semester Session DEC 2024",
+        "semester": "7th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BTech_VII071124123653.pdf"
+      },
+      {
         "title": "Time Table BTech CSBS VII Semester Session DEC 2024",
         "semester": "7th Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTech_CSBS_VII_VIII251024113501.pdf"
@@ -19,11 +24,6 @@
         "title": "Time Table BTech VIII Semester Session DEC 2024",
         "semester": "8th Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BTech_VIII251024113336.pdf"
-      },
-      {
-        "title": "Time Table BTech VII Semester Session DEC 2024",
-        "semester": "7th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BTech_VII251024113307.pdf"
       }
     ]
   },
