@@ -98,6 +98,11 @@
     "programId": 11,
     "programDataList": [
       {
+        "title": "Time Table B Arch CBGS VII Semester Session DEC 2024",
+        "semester": "7th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BARCH_VII_CB111124115617.pdf"
+      },
+      {
         "title": "Time Table Barch CoA X Semester Session DEC 2024",
         "semester": "10th Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BARCH_VII_TO_X COA041124124806.pdf"
@@ -116,11 +121,6 @@
         "title": "Time Table Barch CoA VII Semester Session DEC 2024",
         "semester": "7th Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BARCH_VII_TO_X COA041124124641.pdf"
-      },
-      {
-        "title": "Time Table Barch CBGS VII Semester Session DEC 2024",
-        "semester": "7th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BARCH_VII_CBGS041124124205.pdf"
       }
     ]
   },
