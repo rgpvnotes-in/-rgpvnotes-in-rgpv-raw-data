@@ -45,22 +45,7 @@
       }
     ]
   },
-  {
-    "programName": "B.Tech.-PTDC",
-    "programId": 42,
-    "programDataList": [
-      {
-        "title": "Time Table BTech PTDC VIII SEM Session DEC 2024",
-        "semester": "8th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTECH PTDC_VII_VIII041124123939.pdf"
-      },
-      {
-        "title": "Time Table BTech PTDC VII SEM Session DEC 2024",
-        "semester": "7th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTECH PTDC_VII_VIII041124123908.pdf"
-      }
-    ]
-  },
+  { "programName": "B.Tech.-PTDC", "programId": 42, "programDataList": [] },
   {
     "programName": "B.Pharm.(PCI)",
     "programId": 43,
