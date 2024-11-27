@@ -1208,7 +1208,7 @@
           {
             "semester": "1st Semester",
             "title": "Scheme B.E. Common to all A/B Group I YEAR",
-            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/BE I Year271124012742.pdf"
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/SyllabusBE_I and II Common271124041735.pdf"
           },
           {
             "semester": "2nd Semester",
@@ -1746,6 +1746,11 @@
         "name": "Non Grading System",
         "id": 2,
         "pdfs": [
+          {
+            "semester": "1st Semester",
+            "title": "Scheme B.E. Common to all A/B Group I YEAR",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/BE I Year271124041521.pdf"
+          },
           {
             "semester": "3rd Semester",
             "title": "Sch BE Electronics and Communication Eng III Sem",
