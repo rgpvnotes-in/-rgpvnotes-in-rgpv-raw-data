@@ -1747,6 +1747,11 @@
         "id": 2,
         "pdfs": [
           {
+            "semester": "3rd Semester",
+            "title": "Sch B",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/III EC271124011823.pdf"
+          },
+          {
             "semester": "4th Semester",
             "title": "Textile Engg.",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IV TX (NG) 260811054243.pdf"
@@ -1755,6 +1760,11 @@
             "semester": "4th Semester",
             "title": "Industrial Engineering and Management",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IV IEM110112042323.pdf"
+          },
+          {
+            "semester": "4th Semester",
+            "title": "Sch B",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IV EC271124011904.pdf"
           },
           {
             "semester": "5th Semester",

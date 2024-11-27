@@ -1677,6 +1677,11 @@
         "id": 2,
         "pdfs": [
           {
+            "semester": "3rd Semester",
+            "title": "SY BE",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/III EC SY271124012037.pdf"
+          },
+          {
             "semester": "4th Semester",
             "title": "B.E. (Automobile Engineering)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IV AU _SY_110112040941.pdf"
