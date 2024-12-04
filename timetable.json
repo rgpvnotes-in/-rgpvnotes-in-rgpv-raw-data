@@ -6,6 +6,21 @@
     "programId": 24,
     "programDataList": [
       {
+        "title": "Time Table BTech VI Semester Session DEC 2024",
+        "semester": "6th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTech6041224030915.pdf"
+      },
+      {
+        "title": "Time Table BTech V Semester Session DEC 2024",
+        "semester": "5th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTech5041224030344.pdf"
+      },
+      {
+        "title": "Time Table BTech IV Semester Session DEC 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BTech4041224030301.pdf"
+      },
+      {
         "title": "Time Table BTech VII Semester Session DEC 2024",
         "semester": "7th Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BTech_VII071124123653.pdf"
@@ -60,6 +75,21 @@
     "programName": "B.Pharm.(PCI)",
     "programId": 43,
     "programDataList": [
+      {
+        "title": "Time Table BPharma PCI VI Semester CBGS  Session DEC 2024",
+        "semester": "6th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BPhPCICBGS456041224031219.pdf"
+      },
+      {
+        "title": "Time Table BPharma PCI V Semester CBGS  Session DEC 2024",
+        "semester": "5th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BPhPCICBGS456041224031156.pdf"
+      },
+      {
+        "title": "Time Table BPharma PCI IV Semester CBGS  Session DEC 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BPhPCICBGS456041224031130.pdf"
+      },
       {
         "title": "Time Table BPharma PCI VIII Semester Session DEC 2024",
         "semester": "8th Semester",
