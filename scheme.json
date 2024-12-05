@@ -1195,8 +1195,23 @@
         "pdfs": [
           {
             "semester": "1st Semester",
-            "title": "Schem",
+            "title": "Scheme B Design I Semester",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Scheme B Design I051224105115.pdf"
+          },
+          {
+            "semester": "2nd Semester",
+            "title": "Scheme B Design II Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Scheme B Design II051224105145.pdf"
+          },
+          {
+            "semester": "3rd Semester",
+            "title": "Scheme B Design III Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Scheme B Design III051224105208.pdf"
+          },
+          {
+            "semester": "4th Semester",
+            "title": "Scheme B Design IV Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Scheme B Design  IV051224105234.pdf"
           }
         ]
       },
