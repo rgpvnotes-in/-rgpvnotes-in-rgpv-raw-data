@@ -179,15 +179,45 @@
       }
     ]
   },
-  { "programName": "M.E.", "programId": 6, "programDataList": [] },
-  { "programName": "M.Tech.", "programId": 8, "programDataList": [] },
+  {
+    "programName": "M.E.",
+    "programId": 6,
+    "programDataList": [
+      {
+        "title": "Time Table ME/MTech III Semester Examination Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MTech_III061224053029.pdf"
+      }
+    ]
+  },
+  {
+    "programName": "M.Tech.",
+    "programId": 8,
+    "programDataList": [
+      {
+        "title": "Time Table ME/MTech III Semester Examination Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MTech_III061224053128.pdf"
+      }
+    ]
+  },
   {
     "programName": "M.Tech.(Part Time)",
     "programId": 20,
     "programDataList": []
   },
   { "programName": "M.Pharm", "programId": 7, "programDataList": [] },
-  { "programName": "M.Pharm. PCI", "programId": 71, "programDataList": [] },
+  {
+    "programName": "M.Pharm. PCI",
+    "programId": 71,
+    "programDataList": [
+      {
+        "title": "Time Table M.Pharmacy PCI III Semester Examination Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MPharm_III061224053249.pdf"
+      }
+    ]
+  },
   {
     "programName": "MCA 2 Year",
     "programId": 53,
