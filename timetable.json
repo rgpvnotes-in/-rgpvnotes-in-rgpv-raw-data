@@ -58,7 +58,22 @@
     ]
   },
   { "programName": "B.Design", "programId": 25, "programDataList": [] },
-  { "programName": "BE", "programId": 1, "programDataList": [] },
+  {
+    "programName": "BE",
+    "programId": 1,
+    "programDataList": [
+      {
+        "title": "Time Table BE CBGS VIII Semester Examination Session Dec 2024",
+        "semester": "8th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BE CBGS 7 8061224032312.pdf"
+      },
+      {
+        "title": "Time Table BE CBGS VII Semester Examination Session Dec 2024",
+        "semester": "7th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BE CBGS 7 8061224032242.pdf"
+      }
+    ]
+  },
   {
     "programName": "BE-PTDC",
     "programId": 10,
@@ -164,28 +179,8 @@
       }
     ]
   },
-  {
-    "programName": "M.E.",
-    "programId": 6,
-    "programDataList": [
-      {
-        "title": "Time Table ME III Semester Examination Session Dec 2024",
-        "semester": "3rd Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/ME MTECH 3 SEM_rotated061224031453.pdf"
-      }
-    ]
-  },
-  {
-    "programName": "M.Tech.",
-    "programId": 8,
-    "programDataList": [
-      {
-        "title": "Time Table MTech III Semester Examination Session Dec 2024",
-        "semester": "1st Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/ME MTECH 3 SEM_rotated061224031523.pdf"
-      }
-    ]
-  },
+  { "programName": "M.E.", "programId": 6, "programDataList": [] },
+  { "programName": "M.Tech.", "programId": 8, "programDataList": [] },
   {
     "programName": "M.Tech.(Part Time)",
     "programId": 20,
