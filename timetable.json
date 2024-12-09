@@ -1,5 +1,20 @@
 [
-  { "programName": "MBA", "programId": 4, "programDataList": [] },
+  {
+    "programName": "MBA",
+    "programId": 4,
+    "programDataList": [
+      {
+        "title": "Time Table MBA Plain IV Semester Examination Session Dec 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MBA_III_IV091224055615.pdf"
+      },
+      {
+        "title": "Time Table MBA Plain III Semester Examination Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MBA_III_IV091224055555.pdf"
+      }
+    ]
+  },
   { "programName": "M.Arch", "programId": 22, "programDataList": [] },
   {
     "programName": "B.Tech",
@@ -65,12 +80,12 @@
       {
         "title": "Time Table BE CBGS VIII Semester Examination Session Dec 2024",
         "semester": "8th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BE CBGS 7 8061224032312.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BE091224055514.pdf"
       },
       {
         "title": "Time Table BE CBGS VII Semester Examination Session Dec 2024",
         "semester": "7th Semester",
-        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/BE CBGS 7 8061224032242.pdf"
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BE091224055452.pdf"
       }
     ]
   },
