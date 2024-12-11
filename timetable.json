@@ -65,7 +65,22 @@
       }
     ]
   },
-  { "programName": "M.Arch", "programId": 22, "programDataList": [] },
+  {
+    "programName": "M.Arch",
+    "programId": 22,
+    "programDataList": [
+      {
+        "title": "Time Table MARCH IV Sem Examination Session Dec 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MARCH_III_IV111224012532.pdf"
+      },
+      {
+        "title": "Time Table MARCH III Sem Examination Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MARCH_III_IV111224012509.pdf"
+      }
+    ]
+  },
   {
     "programName": "B.Tech",
     "programId": 24,
