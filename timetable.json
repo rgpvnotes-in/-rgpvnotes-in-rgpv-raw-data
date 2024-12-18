@@ -147,7 +147,22 @@
       }
     ]
   },
-  { "programName": "B.Design", "programId": 25, "programDataList": [] },
+  {
+    "programName": "B.Design",
+    "programId": 25,
+    "programDataList": [
+      {
+        "title": "Time Table B.Design IV Sem Examinaton Session JUN 2024",
+        "semester": "4th Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BDesign_June_IV181224113958.pdf"
+      },
+      {
+        "title": "Time Table B.Design III Sem Examinaton Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_BDesign_III181224113617.pdf"
+      }
+    ]
+  },
   {
     "programName": "BE",
     "programId": 1,
@@ -311,7 +326,17 @@
     "programId": 20,
     "programDataList": []
   },
-  { "programName": "M.Pharm", "programId": 7, "programDataList": [] },
+  {
+    "programName": "M.Pharm",
+    "programId": 7,
+    "programDataList": [
+      {
+        "title": "Time Table B.Pharma III Sem Examinaton Session Dec 2024",
+        "semester": "3rd Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/TT_MPharm_NonPCI_III181224113806.pdf"
+      }
+    ]
+  },
   {
     "programName": "M.Pharm. PCI",
     "programId": 71,
