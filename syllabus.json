@@ -3368,6 +3368,11 @@
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/I Sem _Sy_151014113628.pdf"
           },
           {
+            "semester": "1st Semester",
+            "title": "Syllabus ME Mechanical Engineering I Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng I _Syllabus271224030644.pdf"
+          },
+          {
             "semester": "2nd Semester",
             "title": "Control System (Grading sys)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Control System SY II030511124034.pdf"
@@ -3451,6 +3456,11 @@
             "semester": "2nd Semester",
             "title": "Advance Production System Grading",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/second060416032547.pdf"
+          },
+          {
+            "semester": "2nd Semester",
+            "title": "Syllabus ME Mechanical Engineering II Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng II_Syllabus271224030705.pdf"
           },
           {
             "semester": "3rd Semester",
@@ -3576,6 +3586,11 @@
             "semester": "3rd Semester",
             "title": "Syllabus ME Transportation Engineering III Sem",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Transportation Eng III Sem _Sy_061223031402.pdf"
+          },
+          {
+            "semester": "3rd Semester",
+            "title": "Syllabus ME Mechanical Engineering III Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng III _Syllabus271224030803.pdf"
           }
         ]
       },

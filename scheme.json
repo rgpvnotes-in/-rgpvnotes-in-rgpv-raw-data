@@ -3543,6 +3543,11 @@
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/I Sem151014112742.pdf"
           },
           {
+            "semester": "1st Semester",
+            "title": "Scheme ME Mechanical Engineering I Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng I _Scheme271224030435.pdf"
+          },
+          {
             "semester": "2nd Semester",
             "title": "Adv. Prod. Sys., CIM (Grading Sys)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IICC_Sch310715125413.pdf"
@@ -3646,6 +3651,11 @@
             "semester": "2nd Semester",
             "title": "Computer Integrated Manufacturing (Grading)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IICC_Sch290715011934.pdf"
+          },
+          {
+            "semester": "2nd Semester",
+            "title": "Scheme ME Mechanical Engineering II Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng II _Scheme271224030946.pdf"
           },
           {
             "semester": "3rd Semester",
@@ -3768,6 +3778,11 @@
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/III Sem151014113540.pdf"
           },
           {
+            "semester": "3rd Semester",
+            "title": "Scheme ME Mechanical Engineering III Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng III_Scheme271224030541.pdf"
+          },
+          {
             "semester": "4th Semester",
             "title": "Computer Sc. and Engineering (Grading Sys)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IV CS 221111035032.pdf"
@@ -3876,6 +3891,11 @@
             "semester": "4th Semester",
             "title": "Computer Integrated Manufacturing (Grading)",
             "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/IVCC_Sch290715030954.pdf"
+          },
+          {
+            "semester": "4th Semester",
+            "title": "Scheme ME Mechanical Engineering IV Semester",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/Mechanical Eng IV _Scheme271224030609.pdf"
           }
         ]
       },
