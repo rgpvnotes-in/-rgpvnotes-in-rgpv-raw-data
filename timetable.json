@@ -374,6 +374,11 @@
     "programId": 6,
     "programDataList": [
       {
+        "title": "TIME TABLE ME I SEMESTER EXAMINATION SESSION DEC2024",
+        "semester": "1st Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/ME MTECH I SEM030125012056.pdf"
+      },
+      {
         "title": "Time Table ME II Sem Examination Session Dec2024",
         "semester": "2nd Semester",
         "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/ME Metech II Sem020125050231.pdf"
@@ -389,6 +394,11 @@
     "programName": "M.Tech.",
     "programId": 8,
     "programDataList": [
+      {
+        "title": "TIME TABLE MTECH I SEMESTER EXAMINATION SESSION DEC2024",
+        "semester": "1st Semester",
+        "url": "https://www.rgpv.ac.in/CDN/PubContent/TT/ME MTECH I SEM030125012131.pdf"
+      },
       {
         "title": "Time Table Mtech II Sem Examination Session Dec2024",
         "semester": "2nd Semester",
