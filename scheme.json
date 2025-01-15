@@ -5031,7 +5031,32 @@
     "name": "M.Plan",
     "id": 55,
     "schemes": [
-      { "name": "Grading System", "id": 1, "pdfs": [] },
+      {
+        "name": "Grading System",
+        "id": 1,
+        "pdfs": [
+          {
+            "semester": "1st Semester",
+            "title": "Scheme M.Plan Urban and Regional Planning I Sem",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/M Plan Scheme I150125030518.pdf"
+          },
+          {
+            "semester": "2nd Semester",
+            "title": "Scheme M.Plan Urban and Regional Planning II Sem",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/M Plan Scheme II150125030550.pdf"
+          },
+          {
+            "semester": "3rd Semester",
+            "title": "Scheme M.Plan Urban and Regional Planning III Sem",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/M Plan Scheme III150125030613.pdf"
+          },
+          {
+            "semester": "4th Semester",
+            "title": "Scheme M.Plan Urban and Regional Planning IV Sem",
+            "url": "https://www.rgpv.ac.in/CDN/PubContent/Scheme/M Plan  Scheme IV150125030642.pdf"
+          }
+        ]
+      },
       { "name": "Non Grading System", "id": 2, "pdfs": [] },
       { "name": "Lateral Entry", "id": 3, "pdfs": [] },
       { "name": "CBCS", "id": 4, "pdfs": [] },
